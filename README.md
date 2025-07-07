@@ -1,0 +1,1 @@
+# ethnus-school-management
