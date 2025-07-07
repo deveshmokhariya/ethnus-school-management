@@ -12,7 +12,7 @@
         $result = mysqli_stmt_get_result($stmt);
 
         $row = mysqli_fetch_assoc($result);
-        if($row['role'] == 'teacher'){
+        if($row['role'] == 'student'){
 
         }else{
             include('../assets/logout.php');
